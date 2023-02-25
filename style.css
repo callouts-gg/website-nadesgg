@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
 
 body {
-	background: url('images/background.jpg') no-repeat;
+	/* background: url('images/background2.jpg') no-repeat; */
+	background: url('images/fightclub2.jpg') no-repeat;
+	/* background: black; */ 
 	background-attachment: fixed; 
 	background-size: cover;
 	display: grid;
@@ -14,7 +16,7 @@ body {
 	background-color:rgb(255, 255, 255);
 	margin: auto;
 	margin-top: 5%;
-	width: 30rem;
+	width: 35rem;
 	height: 28rem;
 	border: 3px solid #e4bd12;
 	padding: 10px;
@@ -43,21 +45,32 @@ body {
 	margin: -20px;
 }
 
+.main h1 {
+	color: #FF7F00;
+	margin: 0;
+}
+
+.main h2 {
+	margin: 0.25;
+	color: #0091ff;
+	font-size: 20px;
+}
+
 .main a:link {
-	color: #000000;
+	color: #d67a12;
 	text-decoration: none;
 	/*border-left:1px solid #bbb;*/
 }
 .main a:visited {
-	color: #000000;
+	color: #d67a12;
 	text-decoration: none;
 }
 .main a:hover {
-	color: #000000;
+	color: #d67a12;
 	text-decoration: underline;
 }
 .main a:active {
-	color: #000000;
+	color: #d67a12;
 	text-decoration: underline;
 }
 

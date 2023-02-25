@@ -1,2 +1,2 @@
-# callouts-gg
- The simple website version of Callouts.GG.
+# nades-gg
+ The simple website version of Nades.GG
